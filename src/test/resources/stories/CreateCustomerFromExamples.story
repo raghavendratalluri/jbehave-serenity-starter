@@ -16,6 +16,6 @@ Then user should be able to see Customer Registered Successfully
 
 Examples:
 |user      |customerName|gender|dob       |addr     |city|state|pin   |mobileNumber|eMail           |passWord|
-|mngr116351|CUSTOMERA   |Male  |07/07/1987|Temp Addr|City|State|123456|9999999999  |sdgds@lknk1l.com|654321  |
-|mngr116351|CUSTOMERB   |Male  |07/07/1987|Temp Addr|City|State|123456|9999999999  |sdgds@lknkl1.com|654321  |
+|mngr307768|CUSTOMERA   |Male  |07/07/1987|Temp Addr|City|State|123456|9999999999  |sdgds@lknk1l.com|654321  |
+|mngr307768|CUSTOMERB   |Male  |07/07/1987|Temp Addr|City|State|123456|9999999999  |sdgds@lknkl1.com|654321  |
 					 

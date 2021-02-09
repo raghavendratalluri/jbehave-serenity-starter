@@ -13,4 +13,4 @@ When user selects New Customer Link
 Then user should be able to see New Customer Page
 Examples:
 |user|
-|mngr116351|
+|mngr307768|

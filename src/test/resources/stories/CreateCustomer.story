@@ -16,5 +16,5 @@ Then user should be able to see Customer Registered Successfully
 
 Examples:
 |user|
-|mngr116351|
+|mngr307768|
 					 
